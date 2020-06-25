@@ -19,5 +19,5 @@ Aca scripts cortos y precisos para repasar:
 - Maps JavaScript
 - Template string literals
 - Arrow functions (funciones flecha)
-= Nuevas variables: const y let
+- Nuevas variables: const y let
 
